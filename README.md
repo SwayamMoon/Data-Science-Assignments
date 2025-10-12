@@ -65,8 +65,7 @@ Each folder represents a major topic or assignment in the field of Data Science:
 
 📫 **Email:** swayammoon9373@gmail.com  
 🔗 **GitHub:** [github.com/SwayamMoon](https://github.com/SwayamMoon)  
-💼 **LinkedIn:** [[linkedin.com/in/swayammoon](https://linkedin.com/in/swayammoon](https://www.linkedin.com/in/swayam-moon-374373238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-)) 
+💼 **LinkedIn:** [[https://www.linkedin.com/in/swayam-moon-374373238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
 ---
 
 ## 🌟 Highlights  
