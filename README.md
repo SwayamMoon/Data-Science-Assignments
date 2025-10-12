@@ -6,7 +6,7 @@ This repository demonstrates my journey through data-driven problem solving, ana
 ---
 
 ## 📁 Repository Structure  
-Each folder represents a major topic or assignment in the field of Data Science:  
+Each folder represents a major topic or assignment in the field of Data Science :  
 
 | 📂 Folder | 📘 Topic |
 |------------|----------|
