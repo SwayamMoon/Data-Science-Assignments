@@ -48,7 +48,7 @@ Each folder represents a major topic or assignment in the field of Data Science:
 
 | Category | Tools |
 |-----------|--------|
-| **Programming** | Python, Jupyter Notebook |
+| **Programming** | Python, Google Collab ,Jupyter Notebook |
 | **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras |
 | **Version Control** | Git & GitHub |
 | **Data Science Concepts** | Regression, Classification, Clustering, Forecasting, NLP |
@@ -60,8 +60,7 @@ Each folder represents a major topic or assignment in the field of Data Science:
 **👋 Hi, I'm Swayam Moon**  
 🎓 *B.Tech in Computer Science Engineering (2025)*  
 💼 *Aspiring Data Scientist & AI Engineer*  
-🎮 *Esports Player | Team Leader at LYNEX ESPORTS*  
-📍 *India*  
+📍 *Hinganghat*  
 
 📫 **Email:** swayammoon9373@gmail.com  
 🔗 **GitHub:** [github.com/SwayamMoon](https://github.com/SwayamMoon)  
