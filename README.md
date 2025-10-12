@@ -48,7 +48,7 @@ Each folder represents a major topic or assignment in the field of Data Science:
 
 | Category | Tools |
 |-----------|--------|
-| **Programming** | Python, Google Collab ,Jupyter Notebook |
+| **Programming** | Python, Google Collab,Jupyter Notebook |
 | **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras |
 | **Version Control** | Git & GitHub |
 | **Data Science Concepts** | Regression, Classification, Clustering, Forecasting, NLP |
