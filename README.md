@@ -1,58 +1,94 @@
-# 📊 Data Science Assignments Portfolio
-👉Here is the all my Data Science Assignments including datasets, questions, and Python solutions.
+# 🧠 Data Science Assignments Repository  
 
-
-**Author:** [Swayam Moon]
-
-Welcome to the Data Science Assignments Portfolio! This repository contains a curated set of data science projects covering essential topics, algorithms, and real-world problem solving.
+Welcome to my **Data Science Portfolio** — a complete collection of my academic and professional data science assignments, covering everything from **basic statistics to advanced deep learning** models.  
+This repository demonstrates my journey through data-driven problem solving, analysis, and model development using **Python, Machine Learning, and AI**. 🚀  
 
 ---
 
-## 🚀 About This Repository
+## 📁 Repository Structure  
+Each folder represents a major topic or assignment in the field of Data Science :  
 
-This portfolio is designed to demonstrate practical knowledge and skills across key data science domains. Each assignment:  
-- Focuses on a distinct topic or technique (e.g., statistics, machine learning, unsupervised learning, recommendation systems)  
-- Contains a dedicated folder with well-documented Jupyter notebooks, data files, and assignment-specific READMEs  
-- Emphasizes both conceptual understanding and practical application
-
----
-
-## 📁 Assignment Folders
-
-- **Assignment 01–05: Statistics, EDA, & Core Python**  
-  Introductory projects on statistics, Python basics, hypothesis testing, and comprehensive exploratory data analysis.
-- **Assignment 06–12: Machine Learning & Advanced Models**  
-  Covers regression (MLR), classification (logistic regression, SVM, decision trees, random forest), boosting (XGBoost, LightGBM), and related topics.
-- **Assignment 13–14: Unsupervised Learning**  
-  Dimensionality reduction using PCA, clustering techniques, and group identification in datasets.
-- **Assignment 15: Recommendation System**  
-  Content-based anime recommendation engine utilizing feature engineering and cosine similarity metrics.
-
----
-
-## 🛠️ Key Features
-
-- Step-by-step data cleaning, feature engineering, and machine learning workflows
-- Application of a wide variety of algorithms—from classic statistics to modern ensemble models
-- Best practices in notebook structuring, code documentation, and markdown explanations
-- Visualizations and interpretative commentary for each project
+| 📂 Folder | 📘 Topic |
+|------------|----------|
+| `Assignment_01_Basic stats` | Basic Statistical Analysis |
+| `Assignment_02_Estimation` | Confidence Intervals & Estimation |
+| `Assignment_03_Basic Of Python` | Python Fundamentals |
+| `Assignment_04_Hypothesis Testing` | Two-Sample Hypothesis Testing |
+| `Assignment_05_EDA` | Exploratory Data Analysis |
+| `Assignment_06_MLR` | Multiple Linear Regression |
+| `Assignment_07_Logistic Regression` | Classification using Logistic Regression |
+| `Assignment_08_Data Transformation` | Feature Scaling & Data Transformation |
+| `Assignment_09_SVM` | Support Vector Machine |
+| `Assignment_10_Decision Tree` | Decision Tree Classifier |
+| `Assignment_11_Random Forest` | Ensemble Learning - Random Forest |
+| `Assignment_12_XGBM & LGBM` | XGBoost & LightGBM |
+| `Assignment_13_PCA` | Principal Component Analysis |
+| `Assignment_14_Clustering` | K-Means, Hierarchical Clustering |
+| `Assignment_15_Recommendation System` | Building Recommendation Engines |
+| `Assignment_16_Time series` | Forecasting using ARIMA & Exponential Smoothing |
+| `Assignment_17_Neural Network` | ANN for Classification Problems |
+| `Assignment_18_NLP` | Natural Language Processing |
+| `Assignment_19_RNN` | Recurrent Neural Networks for Sequential Data |
 
 ---
 
-## 📝 How to Use
+## 🧩 Key Skills Demonstrated  
 
-1. Browse the assignment folders by topic.
-2. Open any `.ipynb` notebook in Jupyter (locally or on cloud platforms).
-3. Read the assignment README for context, methodology, and instructions.
-4. Explore, run, and extend the analyses as needed!
-
----
-
-## 💼 Portfolio Value
-
-This repository serves as a robust learning resource and a professional showcase of data science competencies using Python and Jupyter Notebooks. It highlights the ability to handle end-to-end data projects and to communicate results effectively.
+- 📊 **Statistical Analysis & Hypothesis Testing**  
+- 🐍 **Python (NumPy, Pandas, Matplotlib, Seaborn)**  
+- 🤖 **Machine Learning (Scikit-learn, XGBoost, LightGBM)**  
+- 🧠 **Deep Learning (ANN, RNN, LSTM, GRU)**  
+- 💬 **Natural Language Processing (NLP, Sentiment Analysis)**  
+- ⏳ **Time Series Forecasting (ARIMA, Exponential Smoothing)**  
+- 📈 **Data Visualization & EDA**  
 
 ---
 
-Feel free to explore, learn, and use these assignments as a foundation for your own data science journey!
+## ⚙️ Tools & Technologies  
 
+| Category | Tools |
+|-----------|--------|
+| **Programming** | Python, Google Collab,Jupyter Notebook |
+| **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras |
+| **Version Control** | Git & GitHub |
+| **Data Science Concepts** | Regression, Classification, Clustering, Forecasting, NLP |
+
+---
+
+## 🧑‍💻 About Me  
+
+**👋 Hi, I'm Swayam Moon**  
+🎓 *B.Tech in Computer Science Engineering (2025)*  
+💼 *Aspiring Data Scientist & AI Engineer*  
+📍 *Hinganghat*  
+
+📫 **Email:** swayammoon9373@gmail.com  
+🔗 **GitHub:** [github.com/SwayamMoon](https://github.com/SwayamMoon)  
+💼 **LinkedIn:** [[https://www.linkedin.com/in/swayam-moon-374373238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
+---
+
+## 🌟 Highlights  
+
+✅ End-to-End ML Model Building  
+✅ Feature Engineering & Data Cleaning  
+✅ Real-world Case Studies and Assignments  
+✅ Structured Documentation (README for every project)  
+✅ Hands-on Implementation in Jupyter Notebooks  
+
+---
+
+## 🏁 Conclusion  
+
+This repository reflects my **progressive learning path** in data science — from basic concepts to implementing complex models.  
+It’s designed for **recruiters, collaborators, and learners** who wish to explore structured, well-documented, and reproducible data science work.  
+
+> *"Data is the new oil, but insight is the new currency."* 💡  
+
+---
+
+### 🏷️ Tags  
+`#DataScience` `#MachineLearning` `#DeepLearning` `#Python` `#AI` `#NLP` `#RNN` `#XGBoost` `#EDA`
+
+---
+
+© 2025 Swayam Moon | All Rights Reserved ⚡
